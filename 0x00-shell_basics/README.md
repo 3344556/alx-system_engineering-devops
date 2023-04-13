@@ -1,1 +1,1 @@
-cd
+print working directory 
