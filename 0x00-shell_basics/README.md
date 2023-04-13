@@ -1,1 +1,1 @@
-mikdir
+make directory
