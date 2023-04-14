@@ -1,1 +1,1 @@
-delete bete file
+delete my first directory
