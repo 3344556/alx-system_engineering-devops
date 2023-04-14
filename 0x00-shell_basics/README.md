@@ -1,1 +1,1 @@
-all files
+type of the file
