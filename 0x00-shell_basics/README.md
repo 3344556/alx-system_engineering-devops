@@ -1,1 +1,1 @@
-type of the file
+ view files in directory
