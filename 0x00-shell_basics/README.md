@@ -1,1 +1,1 @@
-move betty fbetty ffilbetty file to tmp 
+delete bete file
